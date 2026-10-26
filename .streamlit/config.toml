@@ -1,0 +1,10 @@
+# Site-wide theme for The Front Porch Exchange (editorial look).
+# Streamlit reads this automatically when you run `streamlit run app.py`
+# from the project folder. Custom CSS in app.py refines the typography further.
+[theme]
+base = "light"
+primaryColor = "#A23B2A"
+backgroundColor = "#FAF8F3"
+secondaryBackgroundColor = "#F1EEE7"
+textColor = "#121212"
+font = "serif"

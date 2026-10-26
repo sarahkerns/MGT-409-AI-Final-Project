@@ -1,0 +1,14 @@
+# secrets
+.env
+
+# environments
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# runtime data created by the app
+runs_log.jsonl
+porch.db
